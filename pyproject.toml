@@ -1,0 +1,2 @@
+poetry init
+poetry add flask gunicorn
